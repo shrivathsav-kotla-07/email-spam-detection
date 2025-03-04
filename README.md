@@ -1,4 +1,3 @@
-# email-spam-
 # Spam Email Detection System
 
 ### 📋 Overview
